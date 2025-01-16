@@ -105,7 +105,9 @@ go run main.go
 ## Лицензия
 
 MIT
-<<<<<<< HEAD
+
+
+
 
 
 
